@@ -1,0 +1,2 @@
+# SOLAR-POWERED-SMART-MINI-COLD-STORAGE-SYSTEM-FOR-FRESH-VEGETABLES-IN-NORTH-EASTERN-REGION-
+Farmers in the North Eastern Region face high post-harvest losses due to poor cold-storage facilities, power cuts, difficult terrain, and transportation delays. We propose a Solar-Powered IoT-Based Smart Mini Cold Storage System that can be installed near farms, village collection centres, and local markets.
